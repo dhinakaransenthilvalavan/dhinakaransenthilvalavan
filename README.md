@@ -4,7 +4,7 @@
 <br/>
 
 <div>
-            Frontend
+            <h2>Frontend</h2>
 <div></div>
 
             
@@ -18,7 +18,8 @@
 </div> 
 <div></div>
 <br/>
-Backend
+<h2>Backend</h2>
+<br/>
 <div></div>
 <div>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
