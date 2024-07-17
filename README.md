@@ -55,7 +55,7 @@ Some of my time spend:
 </div>
 </div>
 <br/>
-<h2>Connect with me</h2>
+### Connect with me
 <hr/>
 <div>
 <a href="https://github.com/dhinakaransenthilvalavan" target="_blank">
