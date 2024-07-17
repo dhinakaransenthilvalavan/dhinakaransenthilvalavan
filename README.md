@@ -20,7 +20,6 @@
 <br/>
 Backend
 <div></div>
-<br />
 <div>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
 <a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>
@@ -61,6 +60,7 @@ Tools
 </div>
 <br/>
             Github Stats
+            <div></div>
 <br/>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=dhinakaransenthilvalavan&show_icons=true&count_private=true&hide_border=true" align="center" /><<br />
