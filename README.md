@@ -1,5 +1,5 @@
 
-<div align="center">I'm Dhinakaran, a full-time full-stack developer :male-technologist: working since 2011 :rocket:</div>
+<div align="center">I'm Dhinakaran, a full-time full-stack developer working since 2021 :rocket:</div>
 
 <br/>
 
@@ -69,6 +69,6 @@
 <br/>
 <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=dhinakaransenthilvalavan&show_icons=true&count_private=true&hide_border=true" align="center" />
-            <img src="https://komarev.com/ghpvc/?username=dhinakaransenthilvalavan&&style=flat-square" align="center" />
+<!--             <img src="https://komarev.com/ghpvc/?username=dhinakaransenthilvalavan&&style=flat-square" align="center" /> -->
 </div>
 <br />
