@@ -3,6 +3,12 @@
 
 <br/>
 
+Some of my time spend:
+- :seedling: I’m currently learning Javascript patterm.
+- :dancers: I’m looking to collaborate on any type of project.
+- :speech_balloon: Ask me about everything in tech I will try to simplify it.
+
+
 <div>
             <h3>Frontend</h3>
 <div></div>
@@ -63,12 +69,9 @@
 </a>
 </div>
 <br/>
-<h3>Github Stats</h3>
-            <br/>
-            <div></div>
-<br/>
-<div align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=dhinakaransenthilvalavan&show_icons=true&count_private=true&hide_border=true" align="center" />
-<!--             <img src="https://komarev.com/ghpvc/?username=dhinakaransenthilvalavan&&style=flat-square" align="center" /> -->
-</div>
-<br />
+
+### :rocket: Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhinakaransenthilvalavan&show_icons=true&line_height=21&theme=react" alt="dhinakaransenthilvalavan Github Stats" /> <br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhinakaransenthilvalavan&theme=react&line_height=27&layout=compact" />
+</p>
