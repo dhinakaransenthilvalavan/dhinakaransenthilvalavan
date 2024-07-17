@@ -1,11 +1,10 @@
-
-<div align="center">I'm Dhinakaran, a full-time full-stack developer working since 2021 :rocket:</div>
+### What's Up! I'm Dhinakaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Full-stack developer from India, working since 2021 :rocket:
 
 <br/>
 
 Some of my time spend:
-- :seedling: I’m currently learning Javascript patterm.
-- :dancers: I’m looking to collaborate on any type of project.
+- :seedling: I’m currently learning mongoDB Scaling.
+- :dancers: I’m looking to collaborate on any type of project and open source.
 - :speech_balloon: Ask me about everything in tech I will try to simplify it.
 
 
@@ -56,7 +55,8 @@ Some of my time spend:
 </div>
 </div>
 <br/>
-<h3>Connect with me</h3>
+<h2>Connect with me</h2>
+<hr/>
             <br/>
             <div></div>
 <br/>
@@ -71,6 +71,7 @@ Some of my time spend:
 <br/>
 
 ### :rocket: Quick Stats
+<hr/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhinakaransenthilvalavan&show_icons=true&line_height=21&theme=react" alt="dhinakaransenthilvalavan Github Stats" /> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhinakaransenthilvalavan&theme=react&line_height=27&layout=compact" />
