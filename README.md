@@ -2,7 +2,7 @@
 <div align="center">I'm Dhinakaran, a full-time full-stack developer :male-technologist: working since 2011 :rocket:</div>
 
 <br/>
-My Skill Set
+
 <table><tr><td valign="top" width="33%">
             Frontend
 <br/>
@@ -14,7 +14,7 @@ My Skill Set
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 </div>
-</td><td valign="top" width="33%">
+
             Backend
 <br/>
 <div align="center">
