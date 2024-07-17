@@ -5,7 +5,7 @@
 
 <div>
             Frontend
-<br />
+<div></div>
 
             
 <div>
@@ -19,6 +19,7 @@
 <div></div>
 <br/>
 Backend
+<div></div>
 <br />
 <div>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
@@ -27,6 +28,7 @@ Backend
 </div>       
 <br/>
 Tools
+<div></div>
 <br/>
 <div>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -37,6 +39,7 @@ Tools
 </div>        
 <br/>
             Database
+            <div></div>
 <br/>
 <div>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
@@ -46,6 +49,7 @@ Tools
 </div>
 <br/>
             Connect with me
+            <div></div>
 <br/>
 <div>
 <a href="https://github.com/dhinakaransenthilvalavan" target="_blank">
