@@ -3,7 +3,7 @@
 
 <br/>
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
             Frontend
 <br/>
 <div align="center">
