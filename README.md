@@ -4,7 +4,7 @@
 <br/>
 
 <div>
-            <h2>Frontend</h2>
+            <h3>Frontend</h3>
 <div></div>
 
             
@@ -18,7 +18,7 @@
 </div> 
 <div></div>
 <br/>
-<h2>Backend</h2>
+<h3>Backend</h3>
 <br/>
 <div></div>
 <div>
@@ -27,7 +27,8 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 </div>       
 <br/>
-Tools
+<h3>Tools</h3>
+<br/>
 <div></div>
 <br/>
 <div>
@@ -38,7 +39,8 @@ Tools
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>        
 <br/>
-            Database
+<h3>Database</h3>
+            <br/>
             <div></div>
 <br/>
 <div>
@@ -48,7 +50,8 @@ Tools
 </div>
 </div>
 <br/>
-            Connect with me
+<h3>Connect with me</h3>
+            <br/>
             <div></div>
 <br/>
 <div>
@@ -60,7 +63,8 @@ Tools
 </a>
 </div>
 <br/>
-            Github Stats
+<h3>Github Stats</h3>
+            <br/>
             <div></div>
 <br/>
 <div>
