@@ -3,7 +3,7 @@
 
 <br/>
 
-<table><tr><td valign="top" width="100%">
+<div align="center">
             Frontend
 <br/>
 <div align="center">
@@ -37,11 +37,11 @@ Tools
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
 </div>
-</td></tr></table>
+</div>
 <br/>
             Connect with me
 <br/>
-<div align="center">
+<div>
 <a href="https://github.com/dhinakaransenthilvalavan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
