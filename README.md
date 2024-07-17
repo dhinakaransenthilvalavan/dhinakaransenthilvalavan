@@ -24,7 +24,6 @@ Some of my time spend:
 <div></div>
 <br/>
 <h3>Backend</h3>
-<br/>
 <div></div>
 <div>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
@@ -33,8 +32,6 @@ Some of my time spend:
 </div>       
 <br/>
 <h3>Tools</h3>
-<br/>
-<div></div>
 <br/>
 <div>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -45,7 +42,6 @@ Some of my time spend:
 </div>        
 <br/>
 <h3>Database</h3>
-            <br/>
             <div></div>
 <br/>
 <div>
