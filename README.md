@@ -12,3 +12,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhinakaransenthilvalavan&show_icons=true&locale=en" alt="dhinakaransenthilvalavan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhinakaransenthilvalavan&" alt="dhinakaransenthilvalavan" /></p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhinakaransenthilvalavan&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Dhinakaran's Most Used GitHub Languages" />
+</a>
